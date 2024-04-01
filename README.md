@@ -5,7 +5,7 @@
 Olá, Sou Marcio Mikulski
 
 - 🔭 Atualmente sou gestor de uma escola de ensino infantil e fundamental I
-- 🌱 Estudante de ADS e desenvolvedor backend com NestJS
+- 🌱 Formado em ADS e desenvolvedor backend com NestJS e Java
 - 🌎 AWS Cloud Pratitioner Certified
 - 💬 Me pergunte sobre  NestJS, AWS e redes de computadores
 - 📫 Contato atraves de: <br> <a href = "mailto:mugemikulski@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
